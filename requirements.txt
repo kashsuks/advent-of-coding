@@ -1,9 +1,0 @@
-# Core dependencies
-spacy
-numpy
-PyMuPDF
-PyQt6
-
-# Faiss for vector similarity
-faiss-cpu==1.7.4  # Use this if not using GPU
-# faiss-gpu==1.7.4  # Uncomment if using GPU
